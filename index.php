@@ -51,7 +51,7 @@
   <div class="container">
     <h1>Bem-Vindo(a) !</h1>
     <p>Clique em começar para entrar no site!!</p>
-    <a class="btn" href="principal.php">Começar</a>
+    <a class="btn" href="tela-de-login.html">Começar</a>
   </div>
 </body>
 </html>

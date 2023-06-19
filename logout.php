@@ -3,7 +3,7 @@
 session_start();
 $_SESSION['nome'] = null;
 session_destroy();
-header('location:index.html');
+header('location:tela-de-login.html');
 
 
 ?>
